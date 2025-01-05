@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate mobile app developer with a love 
 - 🌱 Always eager to learn new technologies and improve my skills.
 - 👯 Open to collaborating on open-source projects and contributing to the community.
 - 💬 Ask me about Flutter, Android, and mobile app development.
-- 📫 How to reach me: arunvkazm@gmail.com
+- 📫 How to reach me: mobiledev.arunvk@gmail.com
 - ⚡ Fun fact: I love exploring new places and trying out different cuisines.
 
 ## Languages and Tools
